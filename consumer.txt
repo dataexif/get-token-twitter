@@ -1,0 +1,2 @@
+define('CONSUMER_KEY', 'xxxxxxxxxxxxxxxxxxxxxxxxx'); 
+define('CONSUMER_SECRET', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
